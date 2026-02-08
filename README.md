@@ -195,13 +195,12 @@ Use Serial Monitor (115200 baud) to view debug output:
 
 This is currently a personal project, but feel free to fork and create your own version. If you build one, I'd love to see it!
 
-## License
-
-TBD
 
 ## Contact
 
 Toto - Project Developer
+
+If you've found value from this you can send me a couple of sats via totes@coinos.io
 
 ---
 
