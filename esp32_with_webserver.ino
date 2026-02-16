@@ -14,8 +14,8 @@
 #include <ArduinoJson.h>
 
 // WiFi credentials - change these to your network
-const char* ssid = "VM1475403";
-const char* password = "vjdg5HZhv3jqqaai";
+const char* ssid = "";
+const char* password = "";
 
 // Web server on port 80
 WebServer server(80);
